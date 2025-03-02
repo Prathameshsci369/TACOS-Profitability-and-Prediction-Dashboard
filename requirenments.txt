@@ -1,5 +1,5 @@
 streamlit
-gspread
+gspread==6.2.0
 oauth2client
 pandas
 numpy
